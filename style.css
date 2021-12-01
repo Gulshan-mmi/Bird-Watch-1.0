@@ -1,0 +1,66 @@
+body {
+  background-color: lightskyblue;
+  font-family: "Helvetica";
+  color: purple;
+}
+
+/* navbar ul css */
+nav ul {
+  background-color: tomato;
+  border-style: solid;
+  border-color: mediumvioletred;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+/* list css */
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+}
+
+/* anchor tag css */
+nav ul li a {
+  text-decoration: none;
+}
+
+/* Link hover */
+nav ul li a:hover {
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+img {
+  border-radius: 20px;
+}
+
+/* css for table, header, column sanctuaries page */
+table,
+th,
+td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+
+/* css for table row sanctuaries page */
+tr {
+  background-color: PaleTurquoise;
+}
+th,
+td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: purple;
+}
+td {
+  color: purple;
+}
